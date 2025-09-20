@@ -2,6 +2,8 @@
 Use a ps5 controller with an ESP32.
 --- PS5 Controller Adresse: A0:FA:9C:60:58:3D ---
 
+https://controllers.fandom.com/wiki/Sony_DualSense/Data_Structures
+
 This is heavily based on the work of Jeffery Pernis to connect a PS3 controller to an ESP32, and the PS4-esp32 library. 
 
 PS3 controller: https://github.com/jvpernis/esp32-ps3
